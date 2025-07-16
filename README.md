@@ -2,6 +2,6 @@
 
 Some description!
 
-##Bubheader
+##Subheader
 
 This is a tutorial.
